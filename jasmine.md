@@ -23,7 +23,7 @@ Note: This cheatsheet may be a little outdated. Also see the [Jest cheatsheet](.
 
 ```js
 expect(true).toBe(true)
-expect(true).not.toBe(true)
+expect(true).not.toBe(false)
 ```
 
 ```js
